@@ -1,0 +1,118 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no" />
+    <meta name="format-detection" content="telephone=no" />
+    <title>PPmoney万惠理财</title>
+    <link rel="stylesheet" href="./css/animate.css">
+    <link rel="stylesheet" href="./css/wrap_extension.css">
+    <script src="./js/zepto.min.js"></script>
+    <script>
+        //重置font-size
+        (function(){
+            var _w = $(document).width();
+            if(_w>=640){
+                _w = 640;
+            }
+            $("html").css("font-size",100/1080*_w);
+            window.onresize = function(){
+                _w = $(document).width();
+                if(_w>=640){
+                    _w = 640;
+                }
+                $("html").css("font-size",100/1080*_w);
+            }
+        })();
+    </script>
+</head>
+<body>
+<div class="page page-current">
+    <div class="header" id="header">
+        <div class="download-wrap lightSpeedIn animated">
+            <span class="iconfont icon-close"></span>
+            <div class="right-wrap">
+                <p class="title">
+                    PP理财 IOS版本
+                    <span class="iconfont icon-star check"></span>
+                    <span class="iconfont icon-star check"></span>
+                    <span class="iconfont icon-star check"></span>
+                    <span class="iconfont icon-star check"></span>
+                    <span class="iconfont icon-star"></span>
+                    <span class="star-num">(5630)</span>
+                </p>
+                <btn class="btn btn-small">安装</btn>
+            </div>
+        </div>
+    </div>
+    <div class="banner zoomIn animated" id="banner"></div>
+    <div class="container">
+        <div class="input-wrap" id="input-wrap-one">
+            <p class=" mb-20">已有<span class="txt-warning">10,945,441</span>人领取成功</p>
+            <p class="validate" data-validate="phone"></p>
+            <div class="form-control">
+                <label for="phone"><span class="iconfont icon-phone"></span></label>
+                <input type="tel" placeholder="请输入手机号码" id="phone" data-rule="phone" data-tip="请输入正确的手机号码">
+            </div>
+            <div class="btn btn-block js-draw-btn" data-base="phone">立即领取</div>
+            <p class="mt-10">已有账号？<a  href="#" class="login-link">立即登录</a></p>
+        </div>
+        <div class="panel mt-35" id="panel-01">
+            <div class="panel-head">
+                <span class="line-txt">PPmoney优势</span>
+            </div>
+            <div class="panel-content">
+                <ul class="advantage-list">
+                    <li class="flipInX need-animate">
+                        <h3 class="title">强大的平台实力</h3>
+                        <p>上市公司全资子公司（股票代码：430705）</p>
+                        <p>广东互联网金融协会会长单位</p>
+                    </li>
+                    <li class="flipInX need-animate">
+                        <h3 class="title">强大的平台实力</h3>
+                        <p>阳光保险提供保障</p>
+                        <p>国有资产交易所托管</p>
+                    </li>
+                    <li class="flipInX need-animate">
+                        <h3 class="title">强大的平台实力</h3>
+                        <p>年度信用建设突出贡献单位</p>
+                        <p>德国莱茵A+信用评级</p>
+                    </li>
+                </ul>
+                <ul class="circle-list">
+                    <li class="need-animate fadeInLeftBig animated" data-text="低费用">0元投资手续费</li>
+                    <li class="need-animate fadeIn animated" data-text="门槛低">100元即可投资</li>
+                    <li class="need-animate fadeInRightBig animated" data-text="收益高">年化收益高达25%</li>
+                </ul>
+            </div>
+        </div>
+        <div class="panel">
+            <div class="panel-head">
+                <span class="line-txt">收益对比</span>
+            </div>
+            <div class="panel-content">
+                <div class="chart-wrap">
+                    <div class="chart-img fadeInUp">
+                        <img src="./img/chart.png">
+                    </div>
+                    <p class="chart-tips">投资10万元3个月最高可获得<span class="txt-warning">6250</span>元收益<br>宝宝类产品的<span class="txt-warning">4-5</span>倍！银行活期利率的<span>40</span>倍！</p>
+                </div>
+            </div>
+        </div>
+        <div class="input-wrap mt-30">
+            <p class="validate" data-validate="phone_two"></p>
+            <div class="form-control">
+                <label for="phone_two"><span class="iconfont icon-phone"></span></label>
+                <input type="tel" placeholder="请输入手机号码开始赚钱" id="phone_two" data-rule="phone" data-tip="请输入正确的手机号码">
+            </div>
+            <div class="btn btn-block js-draw-btn" data-base="phone_two">开始赚钱</div>
+        </div>
+    </div>
+</div>
+<div class="footer">
+    <p>活动规则解释权归PP万惠理财所有</p>
+    <p>如有疑问请联系在线客服或拨打10101212</p>
+</div>
+<script src="./js/wrap_extension.js"></script>
+</body>
+</html>

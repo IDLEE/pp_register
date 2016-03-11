@@ -1,0 +1,1005 @@
+/* line 34, ../sass/base.scss */
+.mt-5 {
+  margin-top: 0.2rem !important;
+}
+
+/* line 37, ../sass/base.scss */
+.mb-5 {
+  margin-bottom: 0.2rem !important;
+}
+
+/* line 40, ../sass/base.scss */
+.w-5 {
+  margin: 0 auto;
+  width: 5% !important;
+}
+
+/* line 34, ../sass/base.scss */
+.mt-10 {
+  margin-top: 0.4rem !important;
+}
+
+/* line 37, ../sass/base.scss */
+.mb-10 {
+  margin-bottom: 0.4rem !important;
+}
+
+/* line 40, ../sass/base.scss */
+.w-10 {
+  margin: 0 auto;
+  width: 10% !important;
+}
+
+/* line 34, ../sass/base.scss */
+.mt-15 {
+  margin-top: 0.6rem !important;
+}
+
+/* line 37, ../sass/base.scss */
+.mb-15 {
+  margin-bottom: 0.6rem !important;
+}
+
+/* line 40, ../sass/base.scss */
+.w-15 {
+  margin: 0 auto;
+  width: 15% !important;
+}
+
+/* line 34, ../sass/base.scss */
+.mt-20 {
+  margin-top: 0.8rem !important;
+}
+
+/* line 37, ../sass/base.scss */
+.mb-20 {
+  margin-bottom: 0.8rem !important;
+}
+
+/* line 40, ../sass/base.scss */
+.w-20 {
+  margin: 0 auto;
+  width: 20% !important;
+}
+
+/* line 34, ../sass/base.scss */
+.mt-25 {
+  margin-top: 1rem !important;
+}
+
+/* line 37, ../sass/base.scss */
+.mb-25 {
+  margin-bottom: 1rem !important;
+}
+
+/* line 40, ../sass/base.scss */
+.w-25 {
+  margin: 0 auto;
+  width: 25% !important;
+}
+
+/* line 34, ../sass/base.scss */
+.mt-30 {
+  margin-top: 1.2rem !important;
+}
+
+/* line 37, ../sass/base.scss */
+.mb-30 {
+  margin-bottom: 1.2rem !important;
+}
+
+/* line 40, ../sass/base.scss */
+.w-30 {
+  margin: 0 auto;
+  width: 30% !important;
+}
+
+/* line 34, ../sass/base.scss */
+.mt-35 {
+  margin-top: 1.4rem !important;
+}
+
+/* line 37, ../sass/base.scss */
+.mb-35 {
+  margin-bottom: 1.4rem !important;
+}
+
+/* line 40, ../sass/base.scss */
+.w-35 {
+  margin: 0 auto;
+  width: 35% !important;
+}
+
+/* line 34, ../sass/base.scss */
+.mt-40 {
+  margin-top: 1.6rem !important;
+}
+
+/* line 37, ../sass/base.scss */
+.mb-40 {
+  margin-bottom: 1.6rem !important;
+}
+
+/* line 40, ../sass/base.scss */
+.w-40 {
+  margin: 0 auto;
+  width: 40% !important;
+}
+
+/* line 34, ../sass/base.scss */
+.mt-45 {
+  margin-top: 1.8rem !important;
+}
+
+/* line 37, ../sass/base.scss */
+.mb-45 {
+  margin-bottom: 1.8rem !important;
+}
+
+/* line 40, ../sass/base.scss */
+.w-45 {
+  margin: 0 auto;
+  width: 45% !important;
+}
+
+/* line 34, ../sass/base.scss */
+.mt-50 {
+  margin-top: 2rem !important;
+}
+
+/* line 37, ../sass/base.scss */
+.mb-50 {
+  margin-bottom: 2rem !important;
+}
+
+/* line 40, ../sass/base.scss */
+.w-50 {
+  margin: 0 auto;
+  width: 50% !important;
+}
+
+/* line 34, ../sass/base.scss */
+.mt-55 {
+  margin-top: 2.2rem !important;
+}
+
+/* line 37, ../sass/base.scss */
+.mb-55 {
+  margin-bottom: 2.2rem !important;
+}
+
+/* line 40, ../sass/base.scss */
+.w-55 {
+  margin: 0 auto;
+  width: 55% !important;
+}
+
+/* line 34, ../sass/base.scss */
+.mt-60 {
+  margin-top: 2.4rem !important;
+}
+
+/* line 37, ../sass/base.scss */
+.mb-60 {
+  margin-bottom: 2.4rem !important;
+}
+
+/* line 40, ../sass/base.scss */
+.w-60 {
+  margin: 0 auto;
+  width: 60% !important;
+}
+
+/* line 34, ../sass/base.scss */
+.mt-65 {
+  margin-top: 2.6rem !important;
+}
+
+/* line 37, ../sass/base.scss */
+.mb-65 {
+  margin-bottom: 2.6rem !important;
+}
+
+/* line 40, ../sass/base.scss */
+.w-65 {
+  margin: 0 auto;
+  width: 65% !important;
+}
+
+/* line 34, ../sass/base.scss */
+.mt-70 {
+  margin-top: 2.8rem !important;
+}
+
+/* line 37, ../sass/base.scss */
+.mb-70 {
+  margin-bottom: 2.8rem !important;
+}
+
+/* line 40, ../sass/base.scss */
+.w-70 {
+  margin: 0 auto;
+  width: 70% !important;
+}
+
+/* line 34, ../sass/base.scss */
+.mt-75 {
+  margin-top: 3rem !important;
+}
+
+/* line 37, ../sass/base.scss */
+.mb-75 {
+  margin-bottom: 3rem !important;
+}
+
+/* line 40, ../sass/base.scss */
+.w-75 {
+  margin: 0 auto;
+  width: 75% !important;
+}
+
+/* line 34, ../sass/base.scss */
+.mt-80 {
+  margin-top: 3.2rem !important;
+}
+
+/* line 37, ../sass/base.scss */
+.mb-80 {
+  margin-bottom: 3.2rem !important;
+}
+
+/* line 40, ../sass/base.scss */
+.w-80 {
+  margin: 0 auto;
+  width: 80% !important;
+}
+
+/* line 34, ../sass/base.scss */
+.mt-85 {
+  margin-top: 3.4rem !important;
+}
+
+/* line 37, ../sass/base.scss */
+.mb-85 {
+  margin-bottom: 3.4rem !important;
+}
+
+/* line 40, ../sass/base.scss */
+.w-85 {
+  margin: 0 auto;
+  width: 85% !important;
+}
+
+/* line 34, ../sass/base.scss */
+.mt-90 {
+  margin-top: 3.6rem !important;
+}
+
+/* line 37, ../sass/base.scss */
+.mb-90 {
+  margin-bottom: 3.6rem !important;
+}
+
+/* line 40, ../sass/base.scss */
+.w-90 {
+  margin: 0 auto;
+  width: 90% !important;
+}
+
+/* line 34, ../sass/base.scss */
+.mt-95 {
+  margin-top: 3.8rem !important;
+}
+
+/* line 37, ../sass/base.scss */
+.mb-95 {
+  margin-bottom: 3.8rem !important;
+}
+
+/* line 40, ../sass/base.scss */
+.w-95 {
+  margin: 0 auto;
+  width: 95% !important;
+}
+
+/* line 34, ../sass/base.scss */
+.mt-100 {
+  margin-top: 4rem !important;
+}
+
+/* line 37, ../sass/base.scss */
+.mb-100 {
+  margin-bottom: 4rem !important;
+}
+
+/* line 40, ../sass/base.scss */
+.w-100 {
+  margin: 0 auto;
+  width: 100% !important;
+}
+
+/* line 46, ../sass/base.scss */
+.row:before,
+.row:after {
+  content: " ";
+  display: table;
+}
+
+/* line 97, ../sass/luckmoney.scss */
+/* line 53, ../sass/base.scss */
+.row:after {
+  clear: both;
+}
+
+/* line 101, ../sass/luckmoney.scss */
+/* line 57, ../sass/base.scss */
+[class^="col-"], [class*=" col-"] {
+  position: relative;
+  float: left;
+  display: block;
+}
+
+/* line 107, ../sass/luckmoney.scss */
+/* line 64, ../sass/base.scss */
+.col + .col {
+  margin-left: 1.6%;
+}
+
+/* line 116, ../sass/luckmoney.scss */
+/* line 69, ../sass/base.scss */
+.col-1 {
+  width: 6.86666666667%;
+}
+
+/* line 120, ../sass/luckmoney.scss */
+/* line 74, ../sass/base.scss */
+.col-2 {
+  width: 15.3333333333%;
+}
+
+/* line 124, ../sass/luckmoney.scss */
+/* line 79, ../sass/base.scss */
+.col-3 {
+  width: 23.8%;
+}
+
+/* line 128, ../sass/luckmoney.scss */
+/* line 84, ../sass/base.scss */
+.col-4 {
+  width: 32.2666666667%;
+}
+
+/* line 132, ../sass/luckmoney.scss */
+/* line 89, ../sass/base.scss */
+.col-5 {
+  width: 40.7333333333%;
+}
+
+/* line 136, ../sass/luckmoney.scss */
+/* line 94, ../sass/base.scss */
+.col-6 {
+  width: 49.2%;
+}
+
+/* line 140, ../sass/luckmoney.scss */
+/* line 99, ../sass/base.scss */
+.col-7 {
+  width: 57.6666666667%;
+}
+
+/* line 144, ../sass/luckmoney.scss */
+/* line 104, ../sass/base.scss */
+.col-8 {
+  width: 66.1333333333%;
+}
+
+/* line 148, ../sass/luckmoney.scss */
+/* line 109, ../sass/base.scss */
+.col-9 {
+  width: 74.6%;
+}
+
+/* line 152, ../sass/luckmoney.scss */
+/* line 114, ../sass/base.scss */
+.col-10 {
+  width: 83.0666666667%;
+}
+
+/* line 156, ../sass/luckmoney.scss */
+/* line 119, ../sass/base.scss */
+.col-11 {
+  width: 91.5333333333%;
+}
+
+/* line 160, ../sass/luckmoney.scss */
+/* line 124, ../sass/base.scss */
+.col-12 {
+  width: 100%;
+  margin-left: 0;
+}
+
+/* line 129, ../sass/base.scss */
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  -webkit-tap-highlight-color: transparent;
+  tap-highlight-color: transparent;
+}
+
+/* line 137, ../sass/base.scss */
+html, body {
+  background-color: #fff;
+  font-family: "Microsoft YaHei";
+  overflow: scroll;
+}
+
+/* line 142, ../sass/base.scss */
+.page {
+  display: none;
+  margin: 0 auto;
+  max-width: 640px;
+  overflow-x: hidden;
+}
+/* line 147, ../sass/base.scss */
+.page.page-current {
+  display: block;
+}
+
+@font-face {
+  font-family: "iconfont";
+  src: url("../font/iconfont.eot");
+  /* IE9*/
+  src: url("../font/iconfont.eot?#iefix") format("embedded-opentype"), url("../font/iconfont.woff") format("woff"), url("../font/iconfont.ttf") format("truetype"), url("../font/iconfont.svg#iconfont") format("svg");
+  /* iOS 4.1- */
+}
+/* line 161, ../sass/base.scss */
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-stroke-width: 0.2px;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* line 169, ../sass/base.scss */
+.icon-star:before {
+  content: "\e60d";
+}
+
+/* line 170, ../sass/base.scss */
+.icon-phone:before {
+  content: "\e654";
+}
+
+/* line 171, ../sass/base.scss */
+.icon-close:before {
+  content: "\e614";
+}
+
+/* line 172, ../sass/base.scss */
+.icon-arrowleft:before {
+  content: "\e85f";
+}
+
+/* line 173, ../sass/base.scss */
+.btn {
+  display: inline-block;
+  padding: .3rem .3rem;
+  margin-bottom: 0;
+  font-size: .45rem;
+  font-weight: bold;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  cursor: pointer;
+  border: none;
+  background-color: #1a98ff;
+  color: #fff;
+  border-radius: .2rem;
+  outline: none;
+  text-decoration: none;
+  -moz-user-select: -moz-none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  user-select: none;
+  -moz-transition: all 0.3s linear;
+  -o-transition: all 0.3s linear;
+  -webkit-transition: all 0.3s linear;
+  transition: all 0.3s linear;
+}
+/* line 191, ../sass/base.scss */
+.btn.btn-block {
+  width: 100%;
+}
+/* line 195, ../sass/base.scss */
+.btn:active {
+  opacity: .9;
+}
+/* line 198, ../sass/base.scss */
+.btn:disabled {
+  background-color: #dcdcdc;
+  color: #d3d3d3;
+}
+/* line 202, ../sass/base.scss */
+.btn.btn-small {
+  padding: .15rem .7rem;
+  border-radius: .1rem;
+  font-size: .35rem;
+  font-weight: normal;
+}
+
+/* line 2, ../sass/wrap_extension.scss */
+.txt-warning {
+  color: #ffaa17;
+  margin: 0 .06rem;
+}
+
+/* line 6, ../sass/wrap_extension.scss */
+.txt-gray {
+  color: #d3d3d3 !important;
+}
+
+/* line 9, ../sass/wrap_extension.scss */
+.page {
+  color: #818181;
+}
+
+/* line 12, ../sass/wrap_extension.scss */
+.download-wrap {
+  width: 100%;
+  display: inline-block;
+  padding: 0 .15rem;
+  position: relative;
+}
+/* line 17, ../sass/wrap_extension.scss */
+.download-wrap:before {
+  content: '';
+  display: block;
+  width: 1.5rem;
+  height: 1.5rem;
+  background: #fff url("../img/logo.png") no-repeat;
+  -moz-background-size: auto 100%;
+  -o-background-size: auto 100%;
+  -webkit-background-size: auto 100%;
+  background-size: auto 100%;
+  position: absolute;
+  top: 50%;
+  -moz-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  -webkit-transform: translateY(-50%);
+  transform: translateY(-50%);
+  left: .6rem;
+}
+/* line 27, ../sass/wrap_extension.scss */
+.download-wrap .right-wrap {
+  float: right;
+  font-size: .3rem;
+  font-weight: bolder;
+  color: #3a3a3c;
+  padding: .25rem 0;
+  text-align: right;
+}
+/* line 34, ../sass/wrap_extension.scss */
+.download-wrap .right-wrap .icon-star, .download-wrap .right-wrap .star-num {
+  font-size: .8em;
+  font-weight: normal;
+  color: #d3d3d3;
+}
+/* line 39, ../sass/wrap_extension.scss */
+.download-wrap .right-wrap .icon-star.check {
+  color: #ffaa17;
+}
+/* line 43, ../sass/wrap_extension.scss */
+.download-wrap .btn {
+  margin-top: .2rem;
+}
+
+/* line 48, ../sass/wrap_extension.scss */
+.banner {
+  height: 5.5rem;
+  background-color: #d3d3d3;
+}
+/* line 51, ../sass/wrap_extension.scss */
+.banner.animated {
+  -webkit-animation-delay: 1s;
+  animation-delay: 1s;
+}
+
+/* line 57, ../sass/wrap_extension.scss */
+.input-wrap {
+  width: 75%;
+  margin: .4rem auto;
+}
+/* line 60, ../sass/wrap_extension.scss */
+.input-wrap .form-control {
+  margin-bottom: .45rem;
+}
+/* line 63, ../sass/wrap_extension.scss */
+.input-wrap p {
+  text-align: center;
+  font-size: .4rem;
+  color: #818181;
+}
+/* line 68, ../sass/wrap_extension.scss */
+.input-wrap a {
+  text-decoration: none;
+  color: #818181;
+}
+
+/* line 73, ../sass/wrap_extension.scss */
+.form-control {
+  background-color: #fff;
+  position: relative;
+  border-radius: .2rem;
+  font-size: 1.2rem;
+  padding-left: 1rem;
+  overflow: hidden;
+  border: 1px solid #d3d3d3;
+  -moz-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  -webkit-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+}
+/* line 82, ../sass/wrap_extension.scss */
+.form-control label {
+  display: block;
+  width: .3rem;
+}
+/* line 86, ../sass/wrap_extension.scss */
+.form-control .iconfont {
+  font-size: .8rem;
+  left: .3rem;
+  color: #818181;
+  position: absolute;
+  top: 50%;
+  -moz-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  -webkit-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+/* line 92, ../sass/wrap_extension.scss */
+.form-control input {
+  display: block;
+  width: 100%;
+  font-size: .5rem;
+  padding: .4rem 0 .4rem .3rem;
+  border-radius: .2rem;
+  outline: none;
+  border: none;
+}
+/* line 101, ../sass/wrap_extension.scss */
+.form-control.has-error {
+  border-color: #f74748;
+}
+/* line 102, ../sass/wrap_extension.scss */
+.form-control.has-error .iconfont {
+  color: #f74748;
+  -moz-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  -webkit-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+}
+
+/* line 109, ../sass/wrap_extension.scss */
+.panel {
+  width: 90%;
+  margin: 0 auto;
+}
+/* line 112, ../sass/wrap_extension.scss */
+.panel .panel-head {
+  position: relative;
+  text-align: center;
+  font-size: .4rem;
+  margin-bottom: .5rem;
+}
+/* line 117, ../sass/wrap_extension.scss */
+.panel .panel-head:before {
+  content: "";
+  display: block;
+  width: 100%;
+  border-top: 1px solid #d3d3d3;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -moz-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  z-index: 1;
+}
+/* line 125, ../sass/wrap_extension.scss */
+.panel .panel-head .line-txt {
+  position: relative;
+  z-index: 4;
+  padding: 0 .2rem;
+  background-color: #fff;
+}
+
+/* line 134, ../sass/wrap_extension.scss */
+.advantage-list {
+  margin-top: .3rem;
+  list-style: none;
+  min-height: 9rem;
+}
+/* line 138, ../sass/wrap_extension.scss */
+.advantage-list li {
+  border: 1px solid #d3d3d3;
+  margin-bottom: .25rem;
+  padding: .5rem 0 .5rem 2.5rem;
+  border-radius: .1rem;
+  position: relative;
+  color: #818181;
+  font-size: .3rem;
+  -moz-box-shadow: 0px 0px 0.2rem #d3d3d3;
+  -webkit-box-shadow: 0px 0px 0.2rem #d3d3d3;
+  box-shadow: 0px 0px 0.2rem #d3d3d3;
+}
+/* line 146, ../sass/wrap_extension.scss */
+.advantage-list li .title {
+  font-size: .4rem;
+}
+/* line 149, ../sass/wrap_extension.scss */
+.advantage-list li p {
+  margin-top: .25rem;
+}
+/* line 153, ../sass/wrap_extension.scss */
+.advantage-list li:before {
+  content: "";
+  display: block;
+  position: absolute;
+  top: 50%;
+  -moz-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  -webkit-transform: translateY(-50%);
+  transform: translateY(-50%);
+  left: .5rem;
+  background-repeat: no-repeat;
+  -moz-background-size: 100% auto;
+  -o-background-size: 100% auto;
+  -webkit-background-size: 100% auto;
+  background-size: 100% auto;
+}
+/* line 161, ../sass/wrap_extension.scss */
+.advantage-list li:nth-child(1):before {
+  width: 1.4rem;
+  height: 1.4rem;
+  background-image: url("../img/advantage01.png");
+}
+/* line 166, ../sass/wrap_extension.scss */
+.advantage-list li:nth-child(2):before {
+  width: 1.4rem;
+  height: 1.65rem;
+  background-image: url("../img/advantage02.png");
+}
+/* line 171, ../sass/wrap_extension.scss */
+.advantage-list li:nth-child(3):before {
+  width: 1.4rem;
+  height: 1.45rem;
+  background-image: url("../img/advantage03.png");
+}
+
+/* line 178, ../sass/wrap_extension.scss */
+.circle-list {
+  min-height: 2rem;
+  list-style: none;
+  margin: .5rem 0 1.2rem 0;
+}
+/* line 182, ../sass/wrap_extension.scss */
+.circle-list:before, .circle-list:after {
+  content: " ";
+  display: table;
+}
+/* line 186, ../sass/wrap_extension.scss */
+.circle-list:after {
+  clear: both;
+}
+/* line 189, ../sass/wrap_extension.scss */
+.circle-list li {
+  float: left;
+  width: 33.33333%;
+  position: relative;
+  padding-top: 2rem;
+  text-align: center;
+  font-size: .3rem;
+  color: #818181;
+}
+/* line 197, ../sass/wrap_extension.scss */
+.circle-list li:before {
+  content: attr(data-text);
+  display: block;
+  position: absolute;
+  left: 50%;
+  -moz-transform: translateX(-50%);
+  -ms-transform: translateX(-50%);
+  -webkit-transform: translateX(-50%);
+  transform: translateX(-50%);
+  top: .2rem;
+  width: 1.6rem;
+  height: 1.6rem;
+  line-height: 1.6rem;
+  border-radius: 100%;
+  border: 1px solid #1a98ff;
+  text-align: center;
+  font-size: .4rem;
+  font-weight: bold;
+  color: #1a98ff;
+}
+/* line 212, ../sass/wrap_extension.scss */
+.circle-list li.animated {
+  -webkit-animation-delay: 1s;
+  animation-delay: 1s;
+}
+
+/* line 219, ../sass/wrap_extension.scss */
+.chart-wrap .chart-tips {
+  font-size: .33rem;
+  text-align: center;
+  line-height: 1.7em;
+}
+/* line 224, ../sass/wrap_extension.scss */
+.chart-wrap .chart-img {
+  margin-top: .5rem;
+  margin-bottom: .3rem;
+}
+/* line 227, ../sass/wrap_extension.scss */
+.chart-wrap .chart-img img {
+  width: 100%;
+}
+
+/* line 233, ../sass/wrap_extension.scss */
+.footer {
+  padding-bottom: .4rem;
+  margin-top: 1.5rem;
+  text-align: center;
+  font-size: .3rem;
+  color: #818181;
+  line-height: 1.8em;
+}
+
+/* line 241, ../sass/wrap_extension.scss */
+[data-validate] {
+  display: none;
+  margin: .2rem 0;
+  font-size: .3rem;
+  color: #f74748 !important;
+  text-align: left !important;
+}
+
+/* line 249, ../sass/wrap_extension.scss */
+.success-wrap {
+  position: relative;
+  margin: 1rem 0;
+  padding-top: 3.5rem;
+  text-align: center;
+}
+/* line 254, ../sass/wrap_extension.scss */
+.success-wrap .title {
+  color: #3a3a3c;
+  font-size: .5rem;
+  font-weight: normal;
+}
+/* line 259, ../sass/wrap_extension.scss */
+.success-wrap p {
+  margin-top: .3rem;
+  font-size: .35rem;
+}
+/* line 263, ../sass/wrap_extension.scss */
+.success-wrap:before {
+  content: "";
+  display: block;
+  width: 2.5rem;
+  height: 3rem;
+  position: absolute;
+  left: 50%;
+  -moz-transform: translateX(-50%);
+  -ms-transform: translateX(-50%);
+  -webkit-transform: translateX(-50%);
+  transform: translateX(-50%);
+  top: 0;
+  background: url("../img/hand.png") no-repeat;
+  -moz-background-size: 100% auto;
+  -o-background-size: 100% auto;
+  -webkit-background-size: 100% auto;
+  background-size: 100% auto;
+}
+
+/* line 274, ../sass/wrap_extension.scss */
+.success-content {
+  text-align: center;
+}
+/* line 276, ../sass/wrap_extension.scss */
+.success-content h5 {
+  font-size: .4rem;
+  font-weight: normal;
+}
+/* line 280, ../sass/wrap_extension.scss */
+.success-content p {
+  font-size: .3rem;
+  color: #d3d3d3;
+}
+/* line 284, ../sass/wrap_extension.scss */
+.success-content .rule-btn {
+  margin-top: .5rem;
+  color: #818181;
+}
+/* line 287, ../sass/wrap_extension.scss */
+.success-content .rule-btn .iconfont {
+  display: inline-block;
+  -moz-transform: rotate(180deg);
+  -ms-transform: rotate(180deg);
+  -webkit-transform: rotate(180deg);
+  transform: rotate(180deg);
+}
+/* line 293, ../sass/wrap_extension.scss */
+.success-content img {
+  width: 2rem;
+  height: 2rem;
+}
+
+/* line 299, ../sass/wrap_extension.scss */
+.success-page .footer {
+  margin-top: .5rem;
+}
+
+/* line 304, ../sass/wrap_extension.scss */
+.mask {
+  position: fixed;
+  background: rgba(0, 0, 0, 0.5);
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 10000;
+  display: none;
+}
+
+/* line 314, ../sass/wrap_extension.scss */
+.modal {
+  width: 90%;
+  padding: .5rem .4rem;
+  background-color: #fff;
+  border-radius: .4rem;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -moz-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+/* line 320, ../sass/wrap_extension.scss */
+.modal .modal-title {
+  text-align: center;
+  color: #3a3a3c;
+  font-size: .5rem;
+  font-weight: normal;
+  margin: .3rem 0;
+}
+
+/* line 328, ../sass/wrap_extension.scss */
+.rule-wrap {
+  margin-bottom: .5rem;
+  text-align: left;
+  font-size: .4rem;
+  line-height: 1.6em;
+  color: #818181;
+}
+/* line 334, ../sass/wrap_extension.scss */
+.rule-wrap .rule {
+  position: relative;
+  padding-left: 1em;
+}
+/* line 337, ../sass/wrap_extension.scss */
+.rule-wrap .rule:before {
+  content: attr(data-index);
+  position: absolute;
+  left: 0;
+}
+
+/* line 344, ../sass/wrap_extension.scss */
+.need-animate {
+  display: none;
+}

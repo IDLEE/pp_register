@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no" />
+    <meta name="format-detection" content="telephone=no" />
+    <title>PPmoney万惠理财</title>
+    <link rel="stylesheet" href="./css/wrap_extension.css">
+    <script src="./js/zepto.min.js"></script>
+    <script>
+        //重置font-size
+        (function(){
+            var _w = $(document).width();
+            if(_w>=640){
+                _w = 640;
+            }
+            $("html").css("font-size",100/1080*_w);
+            window.onresize = function(){
+                _w = $(document).width();
+                if(_w>=640){
+                    _w = 640;
+                }
+                $("html").css("font-size",100/1080*_w);
+            }
+        })();
+    </script>
+</head>
+<body>
+<div class="page page-current success-page">
+    <div class="success-wrap">
+        <h3 class="title">您已成功领取<span class="txt-warning">588元</span>现金礼包</h3>
+        <p>现金已存入您<span>150****5197</span>的账户<br>请下载App并注册/登录即可提现</p>
+    </div>
+    <div class="w-80">
+        <a href="#" class="btn btn-block">前往App提现</a>
+    </div>
+    <div class="panel w-70">
+        <div class="panel-head mt-40">
+            <span class="line-txt">关注官方微信号</span>
+        </div>
+        <div class="panel-content">
+            <div class="success-content">
+                <img src="./img/logo.png">
+                <h5>PPmoney理财平台</h5>
+                <p class="mt-5">（长按文字可复制）</p>
+                <p class="rule-btn">活动说明<span class="iconfont icon-arrowleft"></span></p>
+            </div>
+        </div>
+    </div>
+    <div class="footer">
+        <p>活动规则解释权归PP万惠理财所有</p>
+        <p>如有疑问请联系在线客服或拨打10101212</p>
+    </div>
+</div>
+<div class="mask">
+    <div class="modal">
+        <h2 class="modal-title">
+            活动说明
+        </h2>
+        <div class="modal-body">
+            <div class="rule-wrap">
+                <p class="rule" data-index="1.">新用户完成注册送588元现金券礼包；</p>
+                <p class="rule" data-index="2.">现金券奖励请前往客户端“我”-“优惠券”或WAP站“我的账户”-“我的赠券”查看；</p>
+                <p class="rule" data-index="3.">投资时勾选现金券，投资成功后可获得现金券奖励。</p>
+            </div>
+            <div class="w-70">
+                <button class="btn-block btn">知道了</button>
+            </div>
+        </div>
+    </div>
+</div>
+<script src="./js/wrap_extension.js"></script>
+</body>
+</html>
