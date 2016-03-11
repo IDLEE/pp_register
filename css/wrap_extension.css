@@ -611,7 +611,7 @@ html, body {
 /* line 57, ../sass/wrap_extension.scss */
 .input-wrap {
   width: 78%;
-  margin: .4rem auto;
+  margin: .5rem auto;
 }
 /* line 60, ../sass/wrap_extension.scss */
 .input-wrap .form-control {
