@@ -487,9 +487,9 @@ html, body {
 /* line 173, ../sass/base.scss */
 .btn {
   display: inline-block;
-  padding: .3rem .3rem;
+  padding: .36rem .3rem;
   margin-bottom: 0;
-  font-size: .45rem;
+  font-size: .5rem;
   font-weight: bold;
   text-align: center;
   white-space: nowrap;
