@@ -574,7 +574,7 @@ html, body {
   -ms-transform: translateY(-50%);
   -webkit-transform: translateY(-50%);
   transform: translateY(-50%);
-  left: .6rem;
+  left: .7rem;
 }
 /* line 27, ../sass/wrap_extension.scss */
 .download-wrap .right-wrap {
