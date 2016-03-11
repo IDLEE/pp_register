@@ -561,8 +561,8 @@ html, body {
 .download-wrap:before {
   content: '';
   display: block;
-  width: 1.6rem;
-  height: 1.6rem;
+  width: 1.5rem;
+  height: 1.5rem;
   background: #fff url("../img/logo.png") no-repeat;
   -moz-background-size: auto 100%;
   -o-background-size: auto 100%;
