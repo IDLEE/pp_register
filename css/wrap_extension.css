@@ -626,7 +626,8 @@ html, body {
 /* line 68, ../sass/wrap_extension.scss */
 .input-wrap a {
   text-decoration: none;
-  color: #818181;
+  color: #939393;
+  font-size: .3rem;
 }
 
 /* line 73, ../sass/wrap_extension.scss */
@@ -713,6 +714,7 @@ html, body {
 /* line 125, ../sass/wrap_extension.scss */
 .panel .panel-head .line-txt {
   position: relative;
+  font-size: .3rem;
   z-index: 4;
   padding: 0 .2rem;
   background-color: #fff;
