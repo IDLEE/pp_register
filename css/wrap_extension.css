@@ -816,7 +816,7 @@ html, body {
   float: left;
   width: 33.33333%;
   position: relative;
-  padding-top: 2rem;
+  padding-top: 2.25rem;
   text-align: center;
   font-size: .35rem;
   color: #818181;
@@ -832,15 +832,15 @@ html, body {
   -webkit-transform: translateX(-50%);
   transform: translateX(-50%);
   top: .2rem;
-  width: 1.6rem;
-  height: 1.6rem;
-  line-height: 1.6rem;
+  width: 1.8rem;
+  height: 1.8rem;
+  line-height: 1.8rem;
   border-radius: 100%;
-  border: 1px solid #1a98ff;
+  border: 1px solid #48adff;
   text-align: center;
-  font-size: .4rem;
+  font-size: .5rem;
   font-weight: bold;
-  color: #1a98ff;
+  color: #4ea9f3;
 }
 /* line 212, ../sass/wrap_extension.scss */
 .circle-list li.animated {
