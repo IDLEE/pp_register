@@ -529,6 +529,9 @@ html, body {
   border-radius: .1rem;
   font-size: .35rem;
   font-weight: normal;
+  -moz-box-shadow: 0px 2px 0 #0082ed;
+  -webkit-box-shadow: 0px 2px 0 #0082ed;
+  box-shadow: 0px 2px 0 #0082ed;
 }
 
 /* line 2, ../sass/wrap_extension.scss */
@@ -724,7 +727,7 @@ html, body {
 .advantage-list {
   margin-top: .3rem;
   list-style: none;
-  min-height: 9rem;
+  /*min-height: 9rem;*/
 }
 /* line 138, ../sass/wrap_extension.scss */
 .advantage-list li {
