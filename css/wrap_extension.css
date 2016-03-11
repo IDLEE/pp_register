@@ -728,15 +728,15 @@ html, body {
 }
 /* line 138, ../sass/wrap_extension.scss */
 .advantage-list li {
-  border: 1px solid #d3d3d3;
+  border: 1px solid #efeff5;
   margin-bottom: .18rem;
   padding: .5rem 0 .5rem 2.5rem;
   position: relative;
   color: #818181;
   font-size: .3rem;
-  -moz-box-shadow: 0px 0px 0.2rem #d3d3d3;
-  -webkit-box-shadow: 0px 0px 0.2rem #d3d3d3;
-  box-shadow: 0px 0px 0.2rem #d3d3d3;
+  -moz-box-shadow: 0px 0px 0.2rem #f6f6f6;
+  -webkit-box-shadow: 0px 0px 0.2rem #f6f6f6;
+  box-shadow: 0px 0px 0.2rem #f6f6f6;
 }
 /* line 146, ../sass/wrap_extension.scss */
 .advantage-list li .title {
