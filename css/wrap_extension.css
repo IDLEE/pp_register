@@ -563,8 +563,8 @@ html, body {
   display: block;
   width: 1.5rem;
   height: 1.5rem;
-  border: 0.01rem solid #c6c6c6;
-  border-radius: 0.42rem;
+  border: 0.02rem solid #c6c6c6;
+  border-radius: 0.4rem;
   background: #fff url("../img/logo.png") no-repeat;
   -moz-background-size: auto 100%;
   -o-background-size: auto 100%;
