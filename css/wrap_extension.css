@@ -488,7 +488,7 @@ html, body {
 .btn {
   display: inline-block;
   padding: .36rem .3rem;
-  margin-bottom: 0;
+  margin-bottom: .1rem;
   font-size: .5rem;
   font-weight: bold;
   text-align: center;
