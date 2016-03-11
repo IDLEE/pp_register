@@ -836,7 +836,7 @@ html, body {
   height: 1.8rem;
   line-height: 1.8rem;
   border-radius: 100%;
-  border: 1px solid #48adff;
+  border: 0.02rem solid #48adff;
   text-align: center;
   font-size: .5rem;
   font-weight: bold;
