@@ -561,10 +561,8 @@ html, body {
 .download-wrap:before {
   content: '';
   display: block;
-  width: 1.5rem;
-  height: 1.5rem;
-  border: 0.01rem solid #c6c6c6;
-  border-radius: 0.4rem;
+  width: 1.6rem;
+  height: 1.6rem;
   background: #fff url("../img/logo.png") no-repeat;
   -moz-background-size: auto 100%;
   -o-background-size: auto 100%;
@@ -850,7 +848,7 @@ html, body {
 
 /* line 219, ../sass/wrap_extension.scss */
 .chart-wrap .chart-tips {
-  font-size: .33rem;
+  font-size: .38rem;
   text-align: center;
   line-height: 1.7em;
 }
