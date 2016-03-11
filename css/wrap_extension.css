@@ -431,7 +431,7 @@
 /* line 137, ../sass/base.scss */
 html, body {
   background-color: #fff;
-  font-family: "Microsoft YaHei";
+  font-family: "Helvetica Neue",Helvetica,Arial,"Microsoft Yahei","Hiragino Sans GB"
   overflow: scroll;
 }
 
