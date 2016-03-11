@@ -734,9 +734,9 @@ html, body {
   position: relative;
   color: #818181;
   font-size: .34rem;
-  -moz-box-shadow: 0px 0px 0.2rem #f6f6f6;
-  -webkit-box-shadow: 0px 0px 0.2rem #f6f6f6;
-  box-shadow: 0px 0px 0.2rem #f6f6f6;
+  -moz-box-shadow: 0px 1px 0.2rem #f6f6f6;
+  -webkit-box-shadow: 0px 1px 0.2rem #f6f6f6;
+  box-shadow: 0px 1px 0.2rem #f6f6f6;
 }
 
 .advantage-list li h3 {
