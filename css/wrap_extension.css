@@ -581,7 +581,7 @@ html, body {
 /* line 27, ../sass/wrap_extension.scss */
 .download-wrap .right-wrap {
   float: right;
-  font-size: .34rem;
+  font-size: .38rem;
   font-weight: bolder;
   color: #3a3a3c;
   padding: .25rem 0;
@@ -592,6 +592,11 @@ html, body {
   font-size: .88em;
   font-weight: normal;
   color: #d3d3d3;
+}
+.download-wrap .right-wrap .star-num {
+  font-size: .88em;
+  font-weight: normal;
+  color: #939393;
 }
 /* line 39, ../sass/wrap_extension.scss */
 .download-wrap .right-wrap .icon-star.check {
