@@ -1948,12 +1948,12 @@ Copyright (c) 2014 Daniel Eden
   }
 }
 
-.lightSpeedIn {
+/*.lightSpeedIn {
   -webkit-animation-name: lightSpeedIn;
           animation-name: lightSpeedIn;
   -webkit-animation-timing-function: ease-out;
           animation-timing-function: ease-out;
-}
+}*/
 
 @-webkit-keyframes lightSpeedOut {
   0% {
@@ -2539,10 +2539,10 @@ Copyright (c) 2014 Daniel Eden
   }
 }
 
-.zoomIn {
+/*.zoomIn {
   -webkit-animation-name: zoomIn;
           animation-name: zoomIn;
-}
+}*/
 
 @-webkit-keyframes zoomInDown {
   0% {
