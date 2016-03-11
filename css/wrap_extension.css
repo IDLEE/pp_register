@@ -584,7 +584,7 @@ html, body {
 }
 /* line 34, ../sass/wrap_extension.scss */
 .download-wrap .right-wrap .icon-star, .download-wrap .right-wrap .star-num {
-  font-size: .8em;
+  font-size: .88em;
   font-weight: normal;
   color: #d3d3d3;
 }
